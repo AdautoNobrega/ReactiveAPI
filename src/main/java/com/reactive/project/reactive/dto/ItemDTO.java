@@ -8,7 +8,7 @@ import lombok.Data;
 @Data
 public class ItemDTO {
 
-    private Long id;
+    private int id;
     private String descricao;
 
 }
